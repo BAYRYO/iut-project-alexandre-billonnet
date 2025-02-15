@@ -17,6 +17,7 @@
   "dependencies": {
     "@abillonnet3/iut-encrypt": "^1.0.0",
     "@hapi/boom": "9.x.x",
+    "@hapi/jwt": "^3.2.0",
     "@hapipal/haute-couture": "4.x.x",
     "@hapipal/schmervice": "^3.0.0",
     "@hapipal/schwifty": "6.x.x",
