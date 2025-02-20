@@ -21,6 +21,8 @@
     "@hapipal/haute-couture": "4.x.x",
     "@hapipal/schmervice": "^3.0.0",
     "@hapipal/schwifty": "6.x.x",
+    "amqplib": "^0.10.3",
+    "csv-stringify": "^6.4.0",
     "exiting": "6.0.1",
     "joi": "17.x.x",
     "mysql": "^2.18.1",
